@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator-api",
+  "version": "1.0.0",
+  "description": "this is a qr code generator api with express and qrcode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3"
+  }
+}
